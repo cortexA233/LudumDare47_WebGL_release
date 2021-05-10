@@ -1,0 +1,16 @@
+{
+"companyName": "Cycrosoft_Interactive_Entertainment_Inc",
+"productName": "To_the_Earth",
+"productVersion": "1.0",
+"dataUrl": "WebGL_build.data.unityweb",
+"wasmCodeUrl": "WebGL_build.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGL_build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.14f1c1"
+}
